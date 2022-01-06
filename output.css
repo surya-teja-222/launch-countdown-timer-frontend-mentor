@@ -478,8 +478,8 @@ html {
   margin-top: 100px;
 }
 
-.mt-\[80px\] {
-  margin-top: 80px;
+.mt-\[110px\] {
+  margin-top: 110px;
 }
 
 .flex {
@@ -668,12 +668,8 @@ footer{
     width: 10%;
   }
 
-  .md\:pt-\[100px\] {
-    padding-top: 100px;
-  }
-
-  .md\:pt-\[120px\] {
-    padding-top: 120px;
+  .md\:pt-\[140px\] {
+    padding-top: 140px;
   }
 
   .md\:text-\[20px\] {
