@@ -1,5 +1,9 @@
+
+var date = new Date(new Date().getTime() + 8 * 24 * 60 * 60 * 1000);
 function hmm(){
-    var date = new Date(2022, 0, 14);
+    // ge
+    
+
     var today = new Date();
     var diff = date.getTime() - today.getTime();
     // find number of days, hours, minutes, seconds
@@ -24,10 +28,6 @@ const update = ()   => {
 }
 
 update();
-
-
-
-console.log(`${days} days, ${hours} hours, ${minutes} minutes, ${seconds} seconds until My birthday`);
 
 
 
